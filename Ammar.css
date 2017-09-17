@@ -70,14 +70,20 @@ h2 + p {
     text-align: center;
     margin-top: -60px;
 }
-#work{
+#work {
 
 color: white;
-text-align: center;
+
 
 
 }
+#work p{
 
+text-align:center;
+
+
+
+}
 
 header {
     background: #222;
