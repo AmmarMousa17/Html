@@ -5,15 +5,13 @@ body,
 }
 
 .cover {
-    background: url('img/workspace.jpg') top left no-repeat;
-    background-size: cover;
-    display: table;
+    
     width: 100%;
     padding: 0 20%;
     box-shadow: inset 0 0 100px #000;
 	
 }
-.noname{
+.noname {
     background: #02b3e4;
 }
 .cover-text {
@@ -70,14 +68,14 @@ h2 + p {
     text-align: center;
     margin-top: -60px;
 }
-#work {
+.work {
 
 color: white;
 
 
 
 }
-#work p{
+.work p{
 
 text-align:center;
 
