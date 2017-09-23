@@ -14,6 +14,10 @@ body,
 .noname {
     background: #02b3e4;
 }
+.header{
+
+ background: #222;
+}
 .cover-text {
     text-align: center;
     color: #222;
